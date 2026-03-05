@@ -1,10 +1,9 @@
 # artificial-incoherence
 Dumb ai chatbot.
-I am a total beginner in coding, and idk why i made this as one of my first projects.
-I am using markov chain in this version, even if it is chaotic, it works way better than the previous version. Trust me, the previous version can't even talk much. 
+I am a total beginner in coding, and idk why i made this as one of my first projects. Even if this one suck, I am glad that I accomplished completion in this insane project.
 
-If you want to run this,
-1. Download the files. Click that green button called "code", then download zip. Make sure you unzip it after thag.
+Btw, If you want to run my chatbot:
+1. Download the files. Click that green button called "code", then download zip. Make sure you unzip it after that.
 2. You need to install python.
    In windows, you can install it through microsoft store, or you can run this command in your terminal:
    winget install python.python.3.13
@@ -14,3 +13,5 @@ If you want to run this,
 4. Then, you run:
    python3 main.py
 5. Finally you can just talk to whatever thing i just made here! Enjoy your conversation!
+
+Also, you can just delete everything in the pattern.json file, but make sure you leave {}. And it will learn to imitate the way you talk using something called markov-chain
