@@ -14,4 +14,4 @@ Btw, If you want to run my chatbot:
    python3 main.py
 5. Finally you can just talk to whatever thing i just made here! Enjoy your conversation!
 
-Also, you can just delete everything in the pattern.json file, but make sure you leave {}. And it will learn to imitate the way you talk using something called markov-chain
+Also, you can just delete everything in the pattern.json file, but make sure you leave {}. And it will learn the words you used to talk using something called markov-chain. And that means you can train it in another language! Yea, even if it is chaotic, that is why i called it "artificial-incoherence"
