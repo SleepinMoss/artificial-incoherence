@@ -4,7 +4,7 @@ I am a total beginner in coding, and idk why i made this as one of my first proj
 I am using markov chain in this version, even if it is chaotic, it works way better than the previous version. Trust me, the previous version can't even talk much. 
 
 If you want to run this,
-1. Download the files
+1. Download the files. Click that green button called "code", then download zip. Make sure you unzip it after thag.
 2. You need to install python.
    In windows, you can install it through microsoft store, or you can run this command in your terminal:
    winget install python.python.3.13
