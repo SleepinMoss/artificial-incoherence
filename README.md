@@ -1,7 +1,7 @@
 # artificial-incoherence
 Dumb ai chatbot.
-I am a total beginner in coding, and idk why i made this as one of my first projects
-I am using markov chain in this version, that is why it is weird. Trust me, the previous version can't even talk much. 
+I am a total beginner in coding, and idk why i made this as one of my first projects.
+I am using markov chain in this version, even if it is chaotic, it works way better than the previous version. Trust me, the previous version can't even talk much. 
 
 If you want to run this,
 1. Download the files
