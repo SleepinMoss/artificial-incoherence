@@ -9,7 +9,7 @@ Btw, If you want to run my chatbot:
    winget install python.python.3.13
 3. After that, open your terminal and go to the directory you placed this project.
    For example you placed it in download, run this in your terminal:
-   cd %USERPROFILE%\Downloads\artificial-incoherence
+   cd %USERPROFILE%\Downloads\artificial-incoherence-main
 4. Then, you run:
    python3 main.py
 5. Finally you can just talk to whatever thing i just made here! Enjoy your conversation!
