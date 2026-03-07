@@ -1,6 +1,6 @@
 # artificial-incoherence
 Dumb ai chatbot.
-I am a total beginner in coding, and idk why i made this as one of my first projects. Even if this one suck, I am glad that I accomplished completion in this insane project.
+I am a total beginner in coding, and idk why i made this as one of my first projects. Even if this one suck, I am glad that I accomplished completion in this insane project (I used a lil bit of AI to make this version lmao).
 
 Btw, If you want to run my chatbot:
 1. Download the files. Click that green button called "code", then download zip. Make sure you unzip it after that.
@@ -14,4 +14,4 @@ Btw, If you want to run my chatbot:
    python3 main.py
 5. Finally you can just talk to whatever thing i just made here! Enjoy your conversation!
 
-Also, you can just delete everything in the pattern.json file, but make sure you leave {}. And it will learn the words you used to talk using something called markov-chain. And that means you can train it in another language! Yea, even if it is chaotic. That is why i called it "artificial-incoherence"
+Also, you can just delete everything in the pattern.json file, but make sure you leave {}. And it will learn the words you used to talk using something called markov-chain. And that means you can train it in another language! Yea, even if it is chaotic. That is why i called it "artificial-incoherence". Also check the newer version, I made it using no AI this time! https://github.com/SleepinMoss/artificial-incoherence-v2
